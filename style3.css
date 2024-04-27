@@ -658,8 +658,8 @@ p {
 	font-size: 0px;
 	background-color: white;
 	position: absolute;
-	top: 700px;
-	left: 600px;
+	top: 740px;
+	left: 580px;
 	width: 10px;
 	height: 10px;
 	border-radius: 5px;
@@ -669,7 +669,7 @@ p {
 	font-size: 0px;
 	background-color: white;
 	position: absolute;
-	top: 750px;
+	top: 780px;
 	left: 550px;
 	width: 10px;
 	height: 10px;
@@ -680,7 +680,7 @@ p {
 	font-size: 0px;
 	background-color: white;
 	position: absolute;
-	top: 800px;
+	top: 740px;
 	left: 700px;
 	width: 10px;
 	height: 10px;
@@ -691,7 +691,7 @@ p {
 	font-size: 0px;
 	background-color: white;
 	position: absolute;
-	top: 710px;
+	top: 760px;
 	left: 680px;
 	width: 10px;
 	height: 10px;
@@ -702,8 +702,8 @@ p {
 	font-size: 0px;
 	background-color: white;
 	position: absolute;
-	top: 800px;
-	left: 530px;
+	top: 750px;
+	left: 740px;
 	width: 10px;
 	height: 10px;
 	border-radius: 5px;
@@ -716,7 +716,7 @@ p {
 	top: 850px;
 	left: 575px;
 	width: 200px;
-	height: 50px;
+	height: 30px;
 }
 
 .k1 {
@@ -724,18 +724,18 @@ p {
 	background-color: red;
 	position: absolute;
 	top: 850px;
-	left: 200px;
-	width: 100px;
-	height: 50px;
-	border-radius: 10px;
+	left: 210px;
+	width: 90px;
+	height: 45px;
+	border-radius: 8px;
 }
 
 .k2 {
 	font-size: 0px;
 	background-color: black;
 	position: absolute;
-	top: 890px;
-	left: 220px;
+	top: 888px;
+	left: 225px;
 	width: 60px;
 	height: 15px;
 	border-radius: 5px;
@@ -767,8 +767,8 @@ p {
 	position: absolute;
 	top: 805px;
 	left: 310px;
-	width: 30px;
-	height: 30px;
+	width: 20px;
+	height: 20px;
 	border: 8px solid black;
 }
 
@@ -840,7 +840,7 @@ p {
 	background-color: white;
 	position: absolute;
 	top: 790px;
-	left: 2000px;
+	left: 1980px;
 	width: 20px;
 	height: 60px;
 	border-radius: 30px;
@@ -851,7 +851,7 @@ p {
 	background-color: red;
 	position: absolute;
 	top: 800px;
-	left: 2000px;
+	left: 1980px;
 	width: 20px;
 	height: 5px;
 }
@@ -861,7 +861,7 @@ p {
 	background-color: white;
 	position: absolute;
 	top: 790px;
-	left: 2030px;
+	left: 2010px;
 	width: 20px;
 	height: 60px;
 	border-radius: 30px;
@@ -872,7 +872,7 @@ p {
 	background-color: red;
 	position: absolute;
 	top: 800px;
-	left: 2030px;
+	left: 2010px;
 	width: 20px;
 	height: 5px;
 }
@@ -945,10 +945,10 @@ p {
 	font-size: 0px;
 	background-color: saddlebrown;
 	position: absolute;
-	top: 760px;
-	left: 3128px;
-	width: 30px;
-	height: 40px;
+	top: 770px;
+	left: 3135px;
+	width: 20px;
+	height: 30px;
 }
 
 .h3 {
