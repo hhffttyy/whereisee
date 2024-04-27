@@ -410,7 +410,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1100px;
+	top: 900px;
 	left: 500px;
 	width: 50px;
 	height: 50px;
@@ -421,7 +421,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1120px;
+	top: 920px;
 	left: 530px;
 	width: 50px;
 	height: 50px;
@@ -432,7 +432,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1100px;
+	top: 900px;
 	left: 560px;
 	width: 50px;
 	height: 50px;
@@ -443,7 +443,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1120px;
+	top: 920px;
 	left: 590px;
 	width: 50px;
 	height: 50px;
@@ -454,7 +454,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1100px;
+	top: 900px;
 	left: 620px;
 	width: 50px;
 	height: 50px;
@@ -465,7 +465,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1120px;
+	top: 920px;
 	left: 650px;
 	width: 50px;
 	height: 50px;
@@ -476,7 +476,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1100px;
+	top: 900px;
 	left: 680px;
 	width: 50px;
 	height: 50px;
@@ -487,7 +487,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1120px;
+	top: 920px;
 	left: 710px;
 	width: 50px;
 	height: 50px;
@@ -498,7 +498,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1100px;
+	top: 900px;
 	left: 740px;
 	width: 50px;
 	height: 50px;
@@ -509,7 +509,7 @@ p {
 	font-size: 0px;
 	background-color: skyblue;
 	position: absolute;
-	top: 1120px;
+	top: 920px;
 	left: 500px;
 	width: 300px;
 	height: 100px;
@@ -520,11 +520,11 @@ p {
 	font-size: 0px;
 	background: radial-gradient(orange, red);
 	position: absolute;
-	top: 920px;
+	top: 760px;
 	left: 680px;
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
 }
 
 .t1 {
@@ -532,21 +532,21 @@ p {
 	font-size: 0px;
 	background-color: lightgrey;
 	position: absolute;
-	top: 1000px;
+	top: 800px;
 	left: 1840px;
-	width: 100px;
-	height: 200px;
-	border-radius: 25px;
+	width: 70px;
+	height: 150px;
+	border-radius: 15px;
 }
 
 .t2 {
 	border: 2px solid gray;
 	font-size: 0px;
-	background-color: lightgrey;
+	background: radial-gradient(gray, lightgrey, dimgray);
 	position: absolute;
-	top: 1200px;
-	left: 1790px;
-	width: 200px;
+	top: 950px;
+	left: 1800px;
+	width: 150px;
 	height: 10px;
 	border-radius: 25px;
 }
@@ -555,9 +555,9 @@ p {
 	font-size: 0px;
 	background-color: black;
 	position: absolute;
-	top: 1060px;
+	top: 860px;
 	left: 1870px;
-	width: 20px;
+	width: 25px;
 	height: 10px;
 }
 
@@ -565,8 +565,8 @@ p {
 	font-size: 0px;
 	background-color: black;
 	position: absolute;
-	top: 1080px;
-	left: 1900px;
+	top: 840px;
+	left: 1870px;
 	width: 10px;
 	height: 40px;
 }
@@ -575,9 +575,9 @@ p {
 	font-size: 0px;
 	background-color: black;
 	position: absolute;
-	top: 1120px;
-	left: 1870px;
+	top: 840px;
+	left: 1850px;
 	width: 30px;
-	height: 20px;
+	height: 13px;
 }
 }
