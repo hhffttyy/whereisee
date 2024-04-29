@@ -311,6 +311,8 @@ article {
 	display: inline-flex;
 	padding: 30px;
 	border: 2px dotted blue;
+	flex-direction: column;
+	text-align: center;
 }
 
 section {
@@ -331,253 +333,33 @@ img {
 
 p {
 	font-size: 20px;
-	line-height: 2.0;
+	line-height: 1.5;
 	word-break: keep-all;
 	text-align: center;
 }
 
-.b1 {
-	font-size: 0px;
-	background-color: brown;
-	position: absolute;
-	top: 900px;
-	left: 200px;
-	width: 80px;
-	height: 40px;
-	border-radius: 10px;
-}
-
-.b2 {
-	border: 2px dotted black;
-	font-size: 0px;
-	background-color: brown;
-	position: absolute;
-	top: 855px;
-	left: 250px;
-	width: 20px;
-	height: 50px;
-	border-radius: 5px;
-}
-
-.b3 {
-	font-size: 0px;
-	background-color: brown;
-	position: absolute;
-	top: 880px;
-	left: 270px;
-	width: 40px;
-	height: 40px;
-	border-radius: 20px;
-}
-
-.b4 {
-	border: 1px solid brown;
-	font-size: 0px;
-	background-color: yellow;
-	position: absolute;
-	top: 900px;
-	left: 300px;
-	width: 25px;
-	height: 8px;
-	border-radius: 5px;
-}
-
-.b5 {
-	border: 3px solid white;
-	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 890px;
-	left: 290px;
-	width: 5px;
-	height: 5px;
-	border-radius: 2.5px;
-}
-
-.b6 {
-	border: 2px solid brown;
-	font-size: 0px;
-	background-color: LightGoldenrodYellow;
-	position: absolute;
-	top: 925px;
-	left: 215px;
-	width: 50px;
-	height: 10px;
-	border-radius: 5px;
-}
-
-.s1 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 900px;
-	left: 500px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s2 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 920px;
-	left: 530px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s3 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 900px;
-	left: 560px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s4 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 920px;
-	left: 590px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s5 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 900px;
-	left: 620px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s6 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 920px;
-	left: 650px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s7 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 900px;
-	left: 680px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s8 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 920px;
-	left: 710px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s9 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 900px;
-	left: 740px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
-}
-
-.s10 {
-	font-size: 0px;
-	background-color: skyblue;
-	position: absolute;
-	top: 920px;
-	left: 500px;
-	width: 300px;
-	height: 70px;
-	border-radius: 25px;
-}
-
-.s11 {
-	font-size: 0px;
-	background: radial-gradient(orange, red);
-	position: absolute;
-	top: 760px;
-	left: 680px;
-	width: 60px;
-	height: 60px;
-	border-radius: 30px;
-}
-
-.t1 {
-	background: radial-gradient(gray, lightgrey, dimgray);
-	font-size: 0px;
-	background-color: lightgrey;
-	position: absolute;
-	top: 800px;
-	left: 1840px;
-	width: 70px;
-	height: 150px;
-	border-radius: 15px;
-}
-
-.t2 {
-	border: 2px solid gray;
-	font-size: 0px;
-	background: radial-gradient(gray, lightgrey, dimgray);
-	position: absolute;
-	top: 950px;
-	left: 1800px;
-	width: 150px;
-	height: 10px;
-	border-radius: 25px;
-}
-
-.t3 {
-	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 860px;
-	left: 1870px;
-	width: 25px;
-	height: 10px;
-}
-
-.t4 {
-	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 840px;
-	left: 1870px;
-	width: 10px;
-	height: 40px;
-}
-
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6,
+.s1,
+.s2,
+.s3,
+.s4,
+.s5,
+.s6,
+.s7,
+.s8,
+.s9,
+.s10,
+.s11,
+.t1,
+.t2,
+.t3,
+.t4,
 .t5 {
-	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 840px;
-	left: 1850px;
-	width: 30px;
-	height: 13px;
+	display: none;
 }
 }

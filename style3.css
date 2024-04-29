@@ -1,3 +1,8 @@
+
+body {
+	overflow-x: hidden;
+}
+
 h1 {
 	text-align: center;
 	background-color: darkblue;
@@ -19,6 +24,7 @@ article {
 	display: inline-flex;
 	padding: 30px;
 	border: 2px dotted blue;
+	overflow-x: hidden;
 }
 
 section {
@@ -537,6 +543,8 @@ article {
 	display: inline-flex;
 	padding: 30px;
 	border: 2px dotted blue;
+	flex-direction: column;
+	text-align: center;
 }
 
 section {
@@ -548,6 +556,7 @@ section {
 	margin: 20px;
 	box-shadow: 5px 5px 10px 5px midnightblue;
 	align-items: stretch;
+	flex-direction: ;
 }
 
 img {
@@ -557,156 +566,93 @@ img {
 
 p {
 	font-size: 20px;
-	line-height: 2.0;
+	line-height: 1.5;
 	word-break: keep-all;
 	text-align: center;
 }
 
 .s1 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 800px;
-	left: 600px;
-	width: 50px;
-	height: 50px;
-	border-radius: 25px;
+	width: 0px;
+	height: 0px;
 }
 
 .s2 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 770px;
-	left: 605px;
-	width: 45px;
-	height: 45px;
-	border-radius: 22.5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s3 {
 	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 780px;
-	left: 630px;
-	width: 5px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s4 {
 	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 780px;
-	left: 620px;
-	width: 5px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s5 {
 	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 790px;
-	left: 620px;
-	width: 10px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s6 {
 	font-size: 0px;
-	background-color: saddlebrown;
-	position: absolute;
-	top: 810px;
-	left: 590px;
-	width: 20px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s7 {
 	font-size: 0px;
-	background-color: saddlebrown;
-	position: absolute;
-	top: 815px;
-	left: 645px;
-	width: 20px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .s8 {
 	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 750px;
-	left: 620px;
-	width: 20px;
-	height: 20px;
+	width: 0px;
+	height: 0px;
 }
 
 .s9 {
 	font-size: 0px;
-	background-color: black;
-	position: absolute;
-	top: 770px;
-	left: 615px;
-	width: 30px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n1 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 740px;
-	left: 580px;
-	width: 10px;
-	height: 10px;
-	border-radius: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n2 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 780px;
-	left: 550px;
-	width: 10px;
-	height: 10px;
-	border-radius: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n3 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 740px;
-	left: 700px;
-	width: 10px;
-	height: 10px;
-	border-radius: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n4 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 760px;
-	left: 680px;
-	width: 10px;
-	height: 10px;
-	border-radius: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n5 {
 	font-size: 0px;
-	background-color: white;
-	position: absolute;
-	top: 750px;
-	left: 740px;
-	width: 10px;
-	height: 10px;
-	border-radius: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .n6 {
@@ -715,8 +661,8 @@ p {
 	position: absolute;
 	top: 850px;
 	left: 575px;
-	width: 200px;
-	height: 30px;
+	width: 0px;
+	height: 0px;
 }
 
 .k1 {
@@ -725,8 +671,8 @@ p {
 	position: absolute;
 	top: 850px;
 	left: 210px;
-	width: 90px;
-	height: 45px;
+	width: 0px;
+	height: 0px;
 	border-radius: 8px;
 }
 
@@ -736,8 +682,8 @@ p {
 	position: absolute;
 	top: 888px;
 	left: 225px;
-	width: 60px;
-	height: 15px;
+	width: 0px;
+	height: 0px;
 	border-radius: 5px;
 }
 
@@ -747,8 +693,8 @@ p {
 	position: absolute;
 	top: 805px;
 	left: 290px;
-	width: 10px;
-	height: 50px;
+	width: 0px;
+	height: 0px;
 }
 
 .k4 {
@@ -757,8 +703,8 @@ p {
 	position: absolute;
 	top: 795px;
 	left: 290px;
-	width: 30px;
-	height: 10px;
+	width: 0px;
+	height: 0px;
 }
 
 .k5 {
@@ -767,8 +713,8 @@ p {
 	position: absolute;
 	top: 805px;
 	left: 310px;
-	width: 20px;
-	height: 20px;
+	width: 0px;
+	height: 0px;
 	border: 8px solid black;
 }
 
@@ -778,8 +724,8 @@ p {
 	position: absolute;
 	top: 820px;
 	left: 220px;
-	width: 20px;
-	height: 30px;
+	width: 0px;
+	height: 0px;
 }
 
 .p1 {
@@ -788,8 +734,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 700px;
-	width: 30px;
-	height: 40px;
+	width: 0px;
+	height: 0px;
 }
 
 .p2 {
@@ -798,8 +744,8 @@ p {
 	position: absolute;
 	top: 840px;
 	left: 710px;
-	width: 10px;
-	height: 10px;
+	width: 0px;
+	height: 0px;
 }
 
 .p3 {
@@ -809,8 +755,8 @@ p {
 	border-radius: 20px;
 	top: 780px;
 	left: 700px;
-	width: 30px;
-	height: 40px;
+	width: 0px;
+	height: 0px;
 }
 
 .p4 {
@@ -819,8 +765,8 @@ p {
 	position: absolute;
 	top: 790px;
 	left: 705px;
-	width: 20px;
-	height: 10px;
+	width: 0px;
+	height: 0px;
 }
 
 .b1 {
@@ -830,8 +776,8 @@ p {
 	position: absolute;
 	top: 790px;
 	left: 1900px;
-	width: 60px;
-	height: 60px;
+	width: 0px;
+	height: 0px;
 	border-radius: 30px;
 }
 
@@ -841,8 +787,8 @@ p {
 	position: absolute;
 	top: 790px;
 	left: 1980px;
-	width: 20px;
-	height: 60px;
+	width: 0px;
+	height: 0px;
 	border-radius: 30px;
 }
 
@@ -852,8 +798,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 1980px;
-	width: 20px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .b4 {
@@ -862,8 +808,8 @@ p {
 	position: absolute;
 	top: 790px;
 	left: 2010px;
-	width: 20px;
-	height: 60px;
+	width: 0px;
+	height: 0px;
 	border-radius: 30px;
 }
 
@@ -873,8 +819,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 2010px;
-	width: 20px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .b6 {
@@ -883,8 +829,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 1850px;
-	width: 60px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .b7 {
@@ -893,8 +839,8 @@ p {
 	position: absolute;
 	top: 820px;
 	left: 1840px;
-	width: 80px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .b8 {
@@ -903,8 +849,8 @@ p {
 	position: absolute;
 	top: 840px;
 	left: 1850px;
-	width: 60px;
-	height: 5px;
+	width: 0px;
+	height: 0px;
 }
 
 .l1 {
@@ -914,8 +860,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 3900px;
-	width: 80px;
-	height: 50px;
+	width: 0px;
+	height: 0px;
 }
 
 .l2 {
@@ -924,8 +870,8 @@ p {
 	position: absolute;
 	top: 810px;
 	left: 3925px;
-	width: 30px;
-	height: 30px;
+	width: 0px;
+	height: 0px;
 	border-radius: 15px;
 }
 
@@ -936,8 +882,8 @@ p {
 	position: absolute;
 	top: 800px;
 	left: 3100px;
-	width: 60px;
-	height: 100px;
+	width: 0px;
+	height: 0px;
 }
 
 .h2 {
@@ -947,8 +893,8 @@ p {
 	position: absolute;
 	top: 770px;
 	left: 3135px;
-	width: 20px;
-	height: 30px;
+	width: 0px;
+	height: 0px;
 }
 
 .h3 {
@@ -957,8 +903,8 @@ p {
 	position: absolute;
 	top: 850px;
 	left: 3100px;
-	width: 60px;
-	height: 10px;
+	width: 0px;
+	height: 0px;
 }
 
 .h4 {
@@ -967,8 +913,8 @@ p {
 	position: absolute;
 	top: 820px;
 	left: 3140px;
-	width: 10px;
-	height: 20px;
+	width: 0px;
+	height: 0px;
 }
 
 .h5 {
@@ -977,59 +923,86 @@ p {
 	position: absolute;
 	top: 875px;
 	left: 3120px;
-	width: 15px;
-	height: 30px;
+	width: 0px;
+	height: 0px;
 }
 
 .q1 {
 	font-size: 0px;
-	background-color: gray;
-	position: absolute;
-	top: 800px;
-	left: 1020px;
-	width: 40px;
-	height: 80px;
+	width: 0px;
+	height: 0px;
 }
 
 .q2 {
 	font-size: 0px;
-	background-color: darkgray;
-	position: absolute;
-	top: 830px;
-	left: 1000px;
-	width: 30px;
-	height: 60px;
+	width: 0px;
+	height: 0px;
 }
 
 .q3 {
 	font-size: 0px;
-	background-color: darkgray;
-	position: absolute;
-	top: 840px;
-	left: 1055px;
-	width: 30px;
-	height: 45px;
+	width: 0px;
+	height: 0px;
 }
 
 .q4 {
 	font-size: 0px;
-	background-color: green;
-	position: absolute;
-	top: 830px;
-	left: 1060px;
-	width: 15px;
-	height: 15px;
-	border-radius: 8px;
+	width: 0px;
+	height: 0px;
 }
 
 .q5 {
 	font-size: 0px;
-	background-color: olivedrab;
-	position: absolute;
-	top: 785px;
-	left: 1030px;
-	width: 20px;
-	height: 20px;
-	border-radius: 8px;
+	width: 0px;
+	height: 0px;
 }
+
+.s1,
+.s2,
+.s3,
+.s4,
+.s5,
+.s5,
+.s6,
+.s7,
+.s8,
+.s9,
+.n1,
+.n2,
+.n3,
+.n4,
+.n5,
+.n6,
+.p1,
+.p2,
+.p3,
+.p4,
+.k1,
+.k2,
+.k3,
+.k4,
+.k5,
+.k6,
+.b1,
+.b2,
+.b3,
+.b4,
+.b5,
+.b6,
+.b7,
+.b8,
+.l1,
+.l2,
+.h1,
+.h2,
+.h3,
+.h4,
+.h5,
+.q1,
+.q2,
+.q3,
+.q4,
+.q5 {
+ 	display: none;
+ }
 }
