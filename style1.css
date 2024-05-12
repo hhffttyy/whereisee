@@ -168,12 +168,16 @@
 
 .t4 {
 	background-color: lightsalmon;
-	font-size: 0px;
+	font-size: 20px;
 	position: absolute;
 	top: 280px;
-	left: 250px;
-	width: 60px;
+	left: 240px;
+	width: 80px;
 	height: 150px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .t5 {
