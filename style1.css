@@ -36,12 +36,17 @@
 
 .t4 {
 	background-color: lightsalmon;
-	font-size: 0px;
 	position: absolute;
 	top: 600px;
 	left: 800px;
 	width: 200px;
 	height: 300px;
+	color: black;
+	font-size: 50px;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
 }
 
 .t5 {
