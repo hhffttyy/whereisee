@@ -3,13 +3,24 @@
 	margin: 0px;
 }
 
+.t7:hover {
+	background-color: yellow;
+	color: red;
+}
+}
+
+.t8:hover {
+	background-color: yellow;
+	color: blue;
+}
+
 .t1 {
 	text-align: center;
 	font-size: 100px;
 	background-color: black;
 	color: white;
 	margin-bottom: 0px;
-	width: 2000px;
+	width: 100vw;
 }
 
 .t2 {
@@ -37,7 +48,7 @@
 .t4 {
 	background-color: lightsalmon;
 	position: absolute;
-	top: 600px;
+	top: 500px;
 	left: 800px;
 	width: 200px;
 	height: 300px;
@@ -54,7 +65,7 @@
 	color: crimson;
 	font-size: 0px;
 	position: absolute;
-	top: 1000px;
+	top: 900px;
 	left: 600px;
 	width: 600px;
 	height: 200px;
@@ -64,7 +75,8 @@
 .t6 {
 	background-color: peachpuff;
 	font-size: 0px;
-	padding: 1000px;
+	width: 100vw;
+	height: 1200px;
 }
 
 .t7 {
@@ -150,9 +162,9 @@
 	position: absolute;
 	top: 100px;
 	left: 30px;
-	width: 180px;
-	height: 180px;
-	border-radius: 90px;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
 }
 
 .t3 {
@@ -160,18 +172,18 @@
 	font-size: 0px;
 	position: absolute;
 	top: 100px;
-	left: 350px;
-	width: 180px;
-	height: 180px;
-	border-radius: 90px;
+	left: 250px;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
 }
 
 .t4 {
 	background-color: lightsalmon;
 	font-size: 20px;
 	position: absolute;
-	top: 280px;
-	left: 240px;
+	top: 220px;
+	left: 160px;
 	width: 80px;
 	height: 150px;
 	text-align: center;
@@ -185,8 +197,8 @@
 	color: crimson;
 	font-size: 0px;
 	position: absolute;
-	top: 500px;
-	left: 130px;
+	top: 450px;
+	left: 50px;
 	width: 300px;
 	height: 100px;
 	border-radius: 50px;
@@ -195,17 +207,18 @@
 .t6 {
 	background-color: peachpuff;
 	font-size: 0px;
-	padding: 1000px;
+	height: 100vh;
+	width: 100vw;
 }
 
 .t7 {
 	background-color: white;
 	position: absolute;
-	top: 150px;
-	left: 80px;
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
+	top: 130px;
+	left: 60px;
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
 	color: black;
 	font-size: 20px;
 	text-align: center;
@@ -217,11 +230,11 @@
 .t8 {
 	background-color: white;
 	position: absolute;
-	top: 150px;
-	left: 400px;
-	width: 80px;
-	height: 80px;
-	border-radius: 40px;
+	top: 130px;
+	left: 280px;
+	width: 60px;
+	height: 60px;
+	border-radius: 30px;
 	color: black;
 	font-size: 20px;
 	position: absolute;
@@ -235,28 +248,43 @@
 	background-color: red;
 	font-size: 0px;
 	position: absolute;
-	opacity: 0.4;
-	top: 330px;
-	left: 20px;
-	width: 120px;
-	height: 120px;
-	border-radius: 60px;
+	opacity: 0.3;
+	top: 250px;
+	left: 10px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
 }
 
 .t10 {
 	background-color: red;
 	font-size: 0px;
 	position: absolute;
-	opacity: 0.4;
-	top: 330px;
-	left: 430px;
-	width: 120px;
-	height: 120px;
-	border-radius: 60px;
+	opacity: 0.3;
+	top: 250px;
+	left: 280px;
+	width: 100px;
+	height: 100px;
+	border-radius: 50px;
 }
 
 .s1 {
 	text-align: center;
 	background-color: lightblue;
 }
+
+.t7:hover {
+	background-color: yellow;
+	color: red;
+}
+}
+
+.t8:hover {
+	background-color: yellow;
+	color: blue;
+}
+
+.t4:hover {
+	background-color: rgb(251,38,241);
+	color: rgb(38,230,251);
 }
