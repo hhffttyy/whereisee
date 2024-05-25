@@ -3,24 +3,13 @@
 	margin: 0px;
 }
 
-.t7:hover {
-	background-color: yellow;
-	color: red;
-}
-}
-
-.t8:hover {
-	background-color: yellow;
-	color: blue;
-}
-
 .t1 {
 	text-align: center;
 	font-size: 100px;
 	background-color: black;
 	color: white;
 	margin-bottom: 0px;
-	width: 100vw;
+	width: 2000px;
 }
 
 .t2 {
@@ -48,7 +37,7 @@
 .t4 {
 	background-color: lightsalmon;
 	position: absolute;
-	top: 500px;
+	top: 600px;
 	left: 800px;
 	width: 200px;
 	height: 300px;
@@ -62,30 +51,20 @@
 
 .t5 {
 	background-color: crimson;
-	font-size: 50px;
-	color: white;
+	color: crimson;
+	font-size: 0px;
 	position: absolute;
-	top: 900px;
+	top: 1000px;
 	left: 600px;
 	width: 600px;
 	height: 200px;
 	border-radius: 100px;
-	display: flex;
-	text-align: center;
-	justify-content: center;
-	align-items: center;
-}
-
-.t5:hover {
-	background-color: rgb(12,252,16);
-	color: rgb(252,7,236);
 }
 
 .t6 {
 	background-color: peachpuff;
 	font-size: 0px;
-	width: 100vw;
-	height: 1200px;
+	padding: 1000px;
 }
 
 .t7 {
@@ -162,7 +141,7 @@
 	background-color: black;
 	color: white;
 	margin-bottom: 0px;
-	width: 100vw;
+	width: 2000px;
 }
 
 .t2 {
@@ -171,9 +150,9 @@
 	position: absolute;
 	top: 100px;
 	left: 30px;
-	width: 120px;
-	height: 120px;
-	border-radius: 60px;
+	width: 180px;
+	height: 180px;
+	border-radius: 90px;
 }
 
 .t3 {
@@ -181,18 +160,18 @@
 	font-size: 0px;
 	position: absolute;
 	top: 100px;
-	left: 250px;
-	width: 120px;
-	height: 120px;
-	border-radius: 60px;
+	left: 350px;
+	width: 180px;
+	height: 180px;
+	border-radius: 90px;
 }
 
 .t4 {
 	background-color: lightsalmon;
 	font-size: 20px;
 	position: absolute;
-	top: 220px;
-	left: 160px;
+	top: 280px;
+	left: 240px;
 	width: 80px;
 	height: 150px;
 	text-align: center;
@@ -203,35 +182,30 @@
 
 .t5 {
 	background-color: crimson;
-	font-size: 20px;
-	color: white;
+	color: crimson;
+	font-size: 0px;
 	position: absolute;
-	top: 450px;
-	left: 50px;
+	top: 500px;
+	left: 130px;
 	width: 300px;
 	height: 100px;
 	border-radius: 50px;
-	text-align: center;
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 .t6 {
 	background-color: peachpuff;
 	font-size: 0px;
-	height: 100vh;
-	width: 100vw;
+	padding: 1000px;
 }
 
 .t7 {
 	background-color: white;
 	position: absolute;
-	top: 130px;
-	left: 60px;
-	width: 60px;
-	height: 60px;
-	border-radius: 30px;
+	top: 150px;
+	left: 80px;
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
 	color: black;
 	font-size: 20px;
 	text-align: center;
@@ -243,11 +217,11 @@
 .t8 {
 	background-color: white;
 	position: absolute;
-	top: 130px;
-	left: 280px;
-	width: 60px;
-	height: 60px;
-	border-radius: 30px;
+	top: 150px;
+	left: 400px;
+	width: 80px;
+	height: 80px;
+	border-radius: 40px;
 	color: black;
 	font-size: 20px;
 	position: absolute;
@@ -261,45 +235,28 @@
 	background-color: red;
 	font-size: 0px;
 	position: absolute;
-	opacity: 0.3;
-	top: 250px;
-	left: 10px;
-	width: 100px;
-	height: 100px;
-	border-radius: 50px;
+	opacity: 0.4;
+	top: 330px;
+	left: 20px;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
 }
 
 .t10 {
 	background-color: red;
 	font-size: 0px;
 	position: absolute;
-	opacity: 0.3;
-	top: 250px;
-	left: 280px;
-	width: 100px;
-	height: 100px;
-	border-radius: 50px;
+	opacity: 0.4;
+	top: 330px;
+	left: 430px;
+	width: 120px;
+	height: 120px;
+	border-radius: 60px;
 }
 
 .s1 {
 	text-align: center;
 	background-color: lightblue;
-}
-
-.t7:hover {
-	background-color: yellow;
-	color: red;
-}
-}
-
-.t8:hover {
-	background-color: yellow;
-	color: blue;
-}
-
-.t4:hover {
-	background-color: rgb(251,38,241);
-	color: rgb(38,230,251);
-}
 }
 }
